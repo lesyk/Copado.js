@@ -19,6 +19,7 @@ class Copado {
   ];
 
   deploy() {
+    console.log(`Started Deploy...`);
     console.log(this.responses[Math.floor(Math.random()*this.responses.length)]+ ` Try again later.`);
   }
 }
