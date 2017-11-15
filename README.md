@@ -1,6 +1,6 @@
 # Copado.js
 
-SS (salesforce solution, no connection to nazis, except sad faces of developers) for Release Management to support JS drinking game
+SS (salesforce solution, no connection to nazis, except sad faces of developers) for Release Management to support JS drinking game.
 
 ## Run
 
